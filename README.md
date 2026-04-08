@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Mohak%20Garg&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%C3%97%20Builder%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=56&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0ea5e9&height=220&section=header&text=Mohak%20Garg&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%C3%97%20Builder%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=56&descAlign=50" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohak-garg-5a897617a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -99,4 +99,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1a1a3e,100:0d1117&height=100&section=footer" />

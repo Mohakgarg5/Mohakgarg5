@@ -11,32 +11,12 @@
 
 ## 🚀 What I've Built
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mohakgarg5/jobtrack-ai">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakgarg5&repo=jobtrack-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=6366f1" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mohakgarg5/littlescreen">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakgarg5&repo=littlescreen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=6366f1" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mohakgarg5/mohak-portfolio">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakgarg5&repo=mohak-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=6366f1" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mohakgarg5/jobapplyAgent">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakgarg5&repo=jobapplyAgent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=6366f1" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [**jobtrack-ai**](https://github.com/Mohakgarg5/jobtrack-ai) | AI Chrome extension — resume vs JD analysis, cover letter gen & interview prep | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| 📱 [**littlescreen**](https://github.com/Mohakgarg5/littlescreen) | Parent-verified children's screen time platform — solves the family trust gap | ![TS](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) |
+| 🎯 [**mohak-portfolio**](https://github.com/Mohakgarg5/mohak-portfolio) | PM portfolio with AI chatbot, case studies & interactive features | ![TS](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) |
+| 🧠 [**jobapplyAgent**](https://github.com/Mohakgarg5/jobapplyAgent) | Autonomous agent — discovers jobs, writes cover letters & auto-applies | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 
 ---
 
